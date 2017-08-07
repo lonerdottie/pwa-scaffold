@@ -1,6 +1,6 @@
 # VueJS PWA Sandbox
 
-> An attempt to build a versatile PWA scaffold with [VueJS](https://vuejs.org/), [Firebase](https://firebase.google.com/), and [MDL](https://getmdl.io)
+> An attempt to build a versatile PWA scaffold with [VueJS](https://vuejs.org/), [Firebase](https://firebase.google.com/) (incl. [Firebase-UI](https://github.com/firebase/firebaseui-web)), and [MDL](https://getmdl.io)
 
 ## Requirements & Installation
 * Node 6+
