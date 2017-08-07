@@ -1,6 +1,16 @@
 # sandbox
 
-> sandbox for testing vuejs concepts
+> An attempt to build a versatile PWA scaffold with [VueJS](https://vuejs.org/), [Firebase](https://firebase.google.com/), and [MDL](https://getmdl.io)
+
+## Requirements & Installation
+* Node 6+
+* Modify **helpers/firebaseConfig-sample.js** file with your Firebase credentials
+```
+  1. Go to 'Overview' for project in your Firebase Console
+  3. Click 'Add Firebase to Your Web App'
+  4. Copy/Paste your data into firebaseConfig-sample.js
+  5. Rename file to firebaseConfig.js (remove '-sample')
+```
 
 ## Build Setup
 

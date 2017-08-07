@@ -7,3 +7,4 @@ yarn-error.log*
 test/unit/coverage
 .*
 dist-history/*
+src/helpers/firebaseConfig.js
